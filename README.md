@@ -1,6 +1,6 @@
 *Data Scientist* and *Machine Learning Engineer (MLE)* with experience in the fields of neuroscience, medical devices, and autonomous vehicles. I have over 8 years experience visualizing, modeling, and applying statistics to make sense of noisy high-D datasets.
 ## Active Projects
-1. Model deployment (CI/CD) to predict pitcher performance for todays MLB matchups [`repo`](https://github.com/TimCSheehan/pitcher_model_deploy/tree/main) | [`live model output`](timothysheehan.com/mlb_vis).
+1. Model deployment (CI/CD) to predict pitcher performance for todays MLB matchups [`repo`](https://github.com/TimCSheehan/pitcher_model_deploy/tree/main) | [`live model output`](https://timothysheehan.com/mlb_vis).
 
 ## Archived Projects
 1. Decoding neural states (*read: mind reading from visual cortex*) to quantify perceptual biases in human observers. Design of spiking neural-network model to recapitualate bias-variance tradeoff in *ideal* observers. [`repo`](https://github.com/TimCSheehan/SheehanSerences2022/) | [`manuscript`](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001711)
