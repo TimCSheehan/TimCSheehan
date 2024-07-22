@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi my name is *Tim Sheehan* and I am a data scientist with experience in the fields of neuroscience, medical devices, and self driving cars. 
+
+## Here are some projects I am actively working on
+1. Model deployment (CI/CD) to predict pitcher performance in upcoming games [Model](github.com) [display output using REACT webpage](timothysheehan.com/mlb_vis).
+
+## Here are some projects I have completed
+1. Decoding neural states (generalized regression) to quantify perceptual biases in human observers. Summarization of spiking neural-network model to recapitualate bias-variance tradeoff in *ideal* observers. [Summary and Repo](https://github.com/TimCSheehan/SheehanSerences2022/)
 
 <!--
 **TimCSheehan/TimCSheehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
