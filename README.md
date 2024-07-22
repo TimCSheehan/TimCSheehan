@@ -1,5 +1,4 @@
-I am a data scientist with experience in the fields of neuroscience, medical devices, and self driving cars. 
-
+*Data Scientist* and *Machine Learning Engineer (MLE)* with experience in the fields of neuroscience, medical devices, and autonomous vehicles. I have over 8 years experience visualizing, modeling, and applying statistics to make sense of noisy high-D datasets.
 ## Active Projects
 1. Model deployment (CI/CD) to predict pitcher performance in todays MLB matchups [`repo`](https://github.com/TimCSheehan/pitcher_model_deploy/tree/main) | [`live model output`](timothysheehan.com/mlb_vis).
 
